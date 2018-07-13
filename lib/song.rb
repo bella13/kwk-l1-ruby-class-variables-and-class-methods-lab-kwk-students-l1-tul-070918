@@ -14,11 +14,13 @@ def initialize (name, artist, genre)
  @@artist << arstist 
  end
    
-def self.count
-  
+ def self.count
+  @@count 
+end    
    
    
-   
+ 
+ 
    end 
  
  
