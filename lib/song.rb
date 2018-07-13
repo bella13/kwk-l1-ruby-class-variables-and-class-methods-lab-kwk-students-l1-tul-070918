@@ -1,7 +1,12 @@
 class Songs 
-  
-  @@song_count = 0 
-  
-  def 
+  attr_accessor :name, :artist, :genre 
+
+@@acount = 0 
+@@artists = []
+@@genres = []
+
+
+
 end 
+
   
